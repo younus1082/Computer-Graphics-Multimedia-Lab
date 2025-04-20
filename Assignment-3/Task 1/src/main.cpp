@@ -101,7 +101,7 @@ int main()
     float triangleVertices[] = {
          0.3f, -0.5f, 0.0f,  // vertex A
          0.9f, -0.5f, 0.0f,  // vertex B
-         0.3f,  0.5f, 0.0f   // vertex C
+         0.0f,  0.5f, 0.0f   // vertex C
     };
 
     // Setup VAO and VBO for square
